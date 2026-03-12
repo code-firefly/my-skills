@@ -23,3 +23,6 @@ logs/
 # OS generated files
 Thumbs.db
 .DS_Store
+
+# Skills store lock file (local install state)
+skills/.skills_store_lock.json
