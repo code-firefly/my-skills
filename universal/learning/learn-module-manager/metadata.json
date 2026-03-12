@@ -1,0 +1,26 @@
+{
+  "name": "learn-module-manager",
+  "version": "1.0.0",
+  "category": "learning",
+  "created_at": "2026-03-12",
+  "platforms": {
+    "universal": {
+      "status": "supported",
+      "tested_at": "2026-03-12",
+      "notes": "平台无关的通用格式"
+    },
+    "claude-code": {
+      "status": "todo",
+      "claude_code_version": null,
+      "model_version": null,
+      "tested_at": null,
+      "notes": "需要适配 trigger 格式"
+    },
+    "openclaw": {
+      "status": "not-planned",
+      "openclaw_version": null,
+      "tested_at": null,
+      "notes": ""
+    }
+  }
+}
